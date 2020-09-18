@@ -111,16 +111,3 @@ will execute the unit tests.
 
 ```$ npm run test:functional``` will run the functional tests in a browser. Please open `toSVG.html` when the file listing loads in the browser (or open `http://localhost:8030/toSVG.html#/`).
 
-### Contributors
-
-- Liam Mitchell https://github.com/LiamKarlMitchell
-- Artur Zochniak https://github.com/arjamizo
-- Andy Werner https://github.com/Gallore
-- Ivan Baktsheev https://github.com/apla
-- Jeff Chen https://github.com/jeffontheground
-- Markko Paas https://github.com/markkopaas
-- Kim Lokøy https://github.com/klokoy
-- Erik Söhnel https://github.com/hoeck
-- Teja https://github.com/hungerpirat
-- Jakob Pallhuber https://github.com/Joge97
-- Eric Mansfield https://github.com/ericman314
